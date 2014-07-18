@@ -1,0 +1,298 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0004568">[HP:0004568]</span>
+<span class="title">Beaking of vertebral bodies</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003312">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000925">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0003468">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002341">[HP:0002341]</span>
+<span class="title">Cervical cord compression</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002176">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0002143">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009487">[HP:0009487]</span>
+<span class="title">Ulnar deviation of the hand</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001193">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001155">
+<input type="hidden" value="HP:0009484">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0002813">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000763">[HP:0000763]</span>
+<span class="title">Sensory neuropathy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009830">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001379">[HP:0001379]</span>
+<span class="title">Degenerative joint disease</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003063">[HP:0003063]</span>
+<span class="title">Abnormality of the humerus</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001454">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006459">[HP:0006459]</span>
+<span class="title">Dorsal subluxation of ulna</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002997">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0002973">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002762">[HP:0002762]</span>
+<span class="title">Multiple exostoses</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100777">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0010622">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001832">[HP:0001832]</span>
+<span class="title">Abnormality of the metatarsal bones</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001760">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002814">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006248">[HP:0006248]</span>
+<span class="title">Limited wrist movement</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001376">
+<input type="hidden" value="HP:0003019">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009810">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0011729">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003102">[HP:0003102]</span>
+<span class="title">Increased carrying angle</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009811">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0009810">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0002813">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100745">[HP:0100745]</span>
+<span class="title">Abnormality of the humeroulnar joint</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009811">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0009810">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0002813">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003712">[HP:0003712]</span>
+<span class="title">Muscle hypertrophy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011805">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006069">[HP:0006069]</span>
+<span class="title">Severe carpal ossification delay</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001216">
+<input type="hidden" value="HP:0010660">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001191">
+<input type="hidden" value="HP:0001155">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0009810">
+<input type="hidden" value="HP:0003330">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0003019">
+<input type="hidden" value="HP:0011849">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0006257">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005042">[HP:0005042]</span>
+<span class="title">Irregular, rachitic-like metaphyses</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003025">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011314">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0000944">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003084">[HP:0003084]</span>
+<span class="title">Fractures of the long bones</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002757">
+<input type="hidden" value="HP:0011314">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011843">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002659">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007209">[HP:0007209]</span>
+<span class="title">Facial paralysis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000301">
+<input type="hidden" value="HP:0001293">
+<input type="hidden" value="HP:0011799">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+<input type="hidden" value="HP:0001291">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005789">[HP:0005789]</span>
+<span class="title">Generalized osteosclerosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011001">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003330">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0004348">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001881">[HP:0001881]</span>
+<span class="title">Abnormality of leukocytes</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0010987">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002715">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007626">[HP:0007626]</span>
+<span class="title">Mandibular osteomyelitis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000277">
+<input type="hidden" value="HP:0002754">
+<input type="hidden" value="HP:0000929">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0011843">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011821">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+</ul>

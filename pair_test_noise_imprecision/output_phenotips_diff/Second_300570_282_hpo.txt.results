@@ -1,0 +1,291 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0011943">[HP:0011943]</span>
+<span class="title">Increased urinary thiosulfate</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003110">
+<input type="hidden" value="HP:0004369">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004352">
+<input type="hidden" value="HP:0000079">
+<input type="hidden" value="HP:0010932">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002932">[HP:0002932]</span>
+<span class="title">Aldehyde oxidase deficiency</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004354">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011942">[HP:0011942]</span>
+<span class="title">Increased urinary sulfite</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003110">
+<input type="hidden" value="HP:0004369">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004352">
+<input type="hidden" value="HP:0000079">
+<input type="hidden" value="HP:0010932">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011814">[HP:0011814]</span>
+<span class="title">Increased urinary hypoxanthine</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004352">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0010932">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003606">[HP:0003606]</span>
+<span class="title">Absent urinary urothione</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003110">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003359">[HP:0003359]</span>
+<span class="title">Decreased urinary sulfate</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0012612">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004352">
+<input type="hidden" value="HP:0004369">
+<input type="hidden" value="HP:0000079">
+<input type="hidden" value="HP:0010932">
+<input type="hidden" value="HP:0003110">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003643">[HP:0003643]</span>
+<span class="title">Sulfite oxidase deficiency</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004339">
+<input type="hidden" value="HP:0004337">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004354">
+<input type="hidden" value="HP:0001939">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011935">[HP:0011935]</span>
+<span class="title">Decreased urinary urate</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0012610">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004352">
+<input type="hidden" value="HP:0004369">
+<input type="hidden" value="HP:0000079">
+<input type="hidden" value="HP:0010932">
+<input type="hidden" value="HP:0003110">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000804">[HP:0000804]</span>
+<span class="title">Xanthine nephrolithiasis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000787">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0012210">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0010934">[HP:0010934]</span>
+<span class="title">Xanthinuria</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010933">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004352">
+<input type="hidden" value="HP:0010932">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003166">[HP:0003166]</span>
+<span class="title">Increased urinary taurine</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003355">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0004337">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0004354">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0012072">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0000079">
+<input type="hidden" value="HP:0003110">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003534">[HP:0003534]</span>
+<span class="title">Reduced xanthine dehydrogenase activity</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010933">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004352">
+<input type="hidden" value="HP:0010932">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003739">[HP:0003739]</span>
+<span class="title">Myoclonic spasms</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001336">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0100022">
+<input type="hidden" value="HP:0004305">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007220">[HP:0007220]</span>
+<span class="title">Demyelinating motor neuropathy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0007108">
+<input type="hidden" value="HP:0007178">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0009830">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003390">[HP:0003390]</span>
+<span class="title">Sensory axonal neuropathy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000763">
+<input type="hidden" value="HP:0003477">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0009830">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000764">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002599">[HP:0002599]</span>
+<span class="title">Head titubation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001337">
+<input type="hidden" value="HP:0002457">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100022">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0010628">[HP:0010628]</span>
+<span class="title">Facial palsy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000301">
+<input type="hidden" value="HP:0001324">
+<input type="hidden" value="HP:0006824">
+<input type="hidden" value="HP:0010827">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0011799">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+<input type="hidden" value="HP:0001291">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001583">[HP:0001583]</span>
+<span class="title">Rotary nystagmus</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000639">
+<input type="hidden" value="HP:0012373">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000496">
+<input type="hidden" value="HP:0012547">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000640">[HP:0000640]</span>
+<span class="title">Gaze-evoked nystagmus</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000639">
+<input type="hidden" value="HP:0012373">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000496">
+<input type="hidden" value="HP:0012547">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009879">[HP:0009879]</span>
+<span class="title">Cortical gyral simplification</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002536">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002538">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0002060">
+<input type="hidden" value="HP:0100547">
+<input type="hidden" value="HP:0012443">
+<input type="hidden" value="HP:0002269">
+</span>
+</li>
+</ul>

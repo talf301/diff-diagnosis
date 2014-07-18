@@ -1,0 +1,262 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0010538">[HP:0010538]</span>
+<span class="title">Small sella turcica</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002679">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000929">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002173">[HP:0002173]</span>
+<span class="title">Hypoglycemic seizures</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001943">
+<input type="hidden" value="HP:0011145">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0012638">
+<input type="hidden" value="HP:0011014">
+<input type="hidden" value="HP:0011013">
+<input type="hidden" value="HP:0011015">
+<input type="hidden" value="HP:0001250">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008202">[HP:0008202]</span>
+<span class="title">Prolactin deficiency</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000830">
+<input type="hidden" value="HP:0012503">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0000864">
+<input type="hidden" value="HP:0011747">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100769">[HP:0100769]</span>
+<span class="title">Synovitis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0005262">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0001367">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008357">[HP:0008357]</span>
+<span class="title">Reduced factor XIII activity</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010990">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001928">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0003256">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001892">[HP:0001892]</span>
+<span class="title">Abnormal bleeding</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000915">[HP:0000915]</span>
+<span class="title">Pectus excavatum of inferior sternum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000767">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000766">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000914">[HP:0000914]</span>
+<span class="title">Shield chest</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100625">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0001547">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000917">[HP:0000917]</span>
+<span class="title">Superior pectus carinatum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000768">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000766">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100697">[HP:0100697]</span>
+<span class="title">Neurofibrosarcoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100242">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011792">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003251">[HP:0003251]</span>
+<span class="title">Male infertility</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000789">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000144">
+<input type="hidden" value="HP:0000080">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004841">[HP:0004841]</span>
+<span class="title">Reduced factor XII activity</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010989">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001928">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0003256">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005108">[HP:0005108]</span>
+<span class="title">Abnormality of the intervertebral disk</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000925">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005107">[HP:0005107]</span>
+<span class="title">Abnormality of the sacrum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000925">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001602">[HP:0001602]</span>
+<span class="title">Laryngeal stenosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001600">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012252">
+<input type="hidden" value="HP:0002087">
+<input type="hidden" value="HP:0002086">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001732">[HP:0001732]</span>
+<span class="title">Abnormality of the pancreas</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002012">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001438">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002085">[HP:0002085]</span>
+<span class="title">Occipital encephalocele</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002084">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0011815">
+<input type="hidden" value="HP:0000234">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000929">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000766">[HP:0000766]</span>
+<span class="title">Abnormality of the sternum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100258">[HP:0100258]</span>
+<span class="title">Preaxial polydactyly</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010442">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0011297">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100597">[HP:0100597]</span>
+<span class="title">Absent nares</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0005288">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000366">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+</ul>

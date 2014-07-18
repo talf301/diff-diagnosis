@@ -1,0 +1,253 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0007334">[HP:0007334]</span>
+<span class="title">Bilateral convulsive seizures</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011153">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0007359">
+<input type="hidden" value="HP:0012638">
+<input type="hidden" value="HP:0001250">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002380">[HP:0002380]</span>
+<span class="title">Fasciculations</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004305">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0100022">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003445">[HP:0003445]</span>
+<span class="title">EMG: neuropathic changes</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003457">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003484">[HP:0003484]</span>
+<span class="title">Upper limb muscle weakness</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003690">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0001324">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003587">[HP:0003587]</span>
+<span class="title">Insidious onset</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011008">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000004">
+<input type="hidden" value="HP:0003674">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006685">[HP:0006685]</span>
+<span class="title">Endocardial fibrosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004306">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001723">[HP:0001723]</span>
+<span class="title">Restrictive cardiomyopathy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001638">
+<input type="hidden" value="HP:0001637">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0002564">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001880">[HP:0001880]</span>
+<span class="title">Eosinophilia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001879">
+<input type="hidden" value="HP:0001974">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011893">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0010974">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0010987">
+<input type="hidden" value="HP:0001881">
+<input type="hidden" value="HP:0001911">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005547">[HP:0005547]</span>
+<span class="title">Myeloproliferative disorder</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001909">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0004377">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0010987">
+<input type="hidden" value="HP:0001881">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002113">[HP:0002113]</span>
+<span class="title">Pulmonary infiltrates</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002088">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012252">
+<input type="hidden" value="HP:0002086">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004936">[HP:0004936]</span>
+<span class="title">Venous thrombosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001977">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001871">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008180">[HP:0008180]</span>
+<span class="title">Mildly elevated creatine phosphokinase</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003236">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0011021">
+<input type="hidden" value="HP:0010876">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003473">[HP:0003473]</span>
+<span class="title">Fatigable weakness</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001324">
+<input type="hidden" value="HP:0003398">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007126">[HP:0007126]</span>
+<span class="title">Proximal amyotrophy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003202">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011805">
+<input type="hidden" value="HP:0003011">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003554">[HP:0003554]</span>
+<span class="title">Type 2 muscle fiber atrophy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100295">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011805">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0004303">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002725">[HP:0002725]</span>
+<span class="title">Systemic lupus erythematosus</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002960">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0010978">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003403">[HP:0003403]</span>
+<span class="title">EMG: decremental response of compound muscle action potential (CMAP) to repetitive nerve stimulation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003457">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100522">[HP:0100522]</span>
+<span class="title">Thymoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100521">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0000777">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0100763">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000872">[HP:0000872]</span>
+<span class="title">Hashimoto thyroiditis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002960">
+<input type="hidden" value="HP:0100646">
+<input type="hidden" value="HP:0000820">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0010978">
+<input type="hidden" value="HP:0011772">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002171">[HP:0002171]</span>
+<span class="title">Gliosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100705">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+</span>
+</li>
+</ul>

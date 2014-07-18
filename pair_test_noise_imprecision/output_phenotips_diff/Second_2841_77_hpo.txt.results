@@ -1,0 +1,259 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0100838">[HP:0100838]</span>
+<span class="title">Recurrent cutaneous abscess formation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002722">
+<input type="hidden" value="HP:0005406">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011123">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0001581">
+<input type="hidden" value="HP:0002718">
+<input type="hidden" value="HP:0002719">
+<input type="hidden" value="HP:0010978">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0011122">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003645">[HP:0003645]</span>
+<span class="title">Prolonged partial thromboplastin time</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001928">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001871">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004834">[HP:0004834]</span>
+<span class="title">Abnormal bleeding</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000211">[HP:0000211]</span>
+<span class="title">Trismus</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000277">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000929">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011821">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000079">[HP:0000079]</span>
+<span class="title">Abnormality of the urinary system</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000387">[HP:0000387]</span>
+<span class="title">Absent earlobe</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009906">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000377">
+<input type="hidden" value="HP:0000356">
+<input type="hidden" value="HP:0000598">
+<input type="hidden" value="HP:0000363">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004414">[HP:0004414]</span>
+<span class="title">Abnormality of the pulmonary artery</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004930">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000993">[HP:0000993]</span>
+<span class="title">Molluscoid pseudotumors</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011355">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000951">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002108">[HP:0002108]</span>
+<span class="title">Spontaneous pneumothorax</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002107">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012252">
+<input type="hidden" value="HP:0002088">
+<input type="hidden" value="HP:0002086">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002105">[HP:0002105]</span>
+<span class="title">Hemoptysis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002088">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012252">
+<input type="hidden" value="HP:0002086">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001073">[HP:0001073]</span>
+<span class="title">Cigarette-paper scars</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001075">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000987">
+<input type="hidden" value="HP:0100699">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0011355">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0004334">
+<input type="hidden" value="HP:0008065">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0003549">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005244">[HP:0005244]</span>
+<span class="title">Gastrointestinal infarctions</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0012719">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002012">
+<input type="hidden" value="HP:0001438">
+<input type="hidden" value="HP:0011024">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100718">[HP:0100718]</span>
+<span class="title">Uterine rupture</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000130">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000812">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0010460">
+<input type="hidden" value="HP:0000008">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100784">[HP:0100784]</span>
+<span class="title">Peripheral arteriovenous fistula</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004947">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0100026">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100689">[HP:0100689]</span>
+<span class="title">Decreased corneal thickness</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011486">
+<input type="hidden" value="HP:0004328">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000481">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002900">[HP:0002900]</span>
+<span class="title">Hypokalemia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011042">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0010929">
+<input type="hidden" value="HP:0003111">
+<input type="hidden" value="HP:0010930">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004944">[HP:0004944]</span>
+<span class="title">Cerebral aneurysm</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002617">
+<input type="hidden" value="HP:0009145">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0012443">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0011004">
+<input type="hidden" value="HP:0100659">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001654">[HP:0001654]</span>
+<span class="title">Abnormality of the heart valves</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002564">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005267">[HP:0005267]</span>
+<span class="title">Premature delivery because of cervical insufficiency or membrane fragility</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001622">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001197">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000015">[HP:0000015]</span>
+<span class="title">Bladder diverticulum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000014">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0010936">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+</ul>

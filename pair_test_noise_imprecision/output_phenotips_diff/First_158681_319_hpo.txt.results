@@ -1,0 +1,292 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0001058">[HP:0001058]</span>
+<span class="title">Poor wound healing</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000951">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007517">[HP:0007517]</span>
+<span class="title">Palmoplantar cutis laxa</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000973">
+<input type="hidden" value="HP:0007605">
+<input type="hidden" value="HP:0100871">
+<input type="hidden" value="HP:0100872">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0007392">
+<input type="hidden" value="HP:0001155">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0100678">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0008067">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0007495">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0010647">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011356">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0011121">
+<input type="hidden" value="HP:0011844">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000533">[HP:0000533]</span>
+<span class="title">Chorioretinal atrophy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000532">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000610">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0000479">
+<input type="hidden" value="HP:0000553">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007994">[HP:0007994]</span>
+<span class="title">Peripheral visual field loss</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001123">
+<input type="hidden" value="HP:0012373">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000504">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002664">[HP:0002664]</span>
+<span class="title">Neoplasm</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007588">[HP:0007588]</span>
+<span class="title">Reticular hyperpigmentation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0007400">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0011121">
+<input type="hidden" value="HP:0000953">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0001000">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011007">[HP:0011007]</span>
+<span class="title">Age of onset</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003674">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000004">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007456">[HP:0007456]</span>
+<span class="title">Progressive reticulate hyperpigmentation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0007400">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0011121">
+<input type="hidden" value="HP:0000953">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0001000">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004331">[HP:0004331]</span>
+<span class="title">Decreased skull ossification</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002703">
+<input type="hidden" value="HP:0011849">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000929">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0003330">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001320">[HP:0001320]</span>
+<span class="title">Cerebellar vermis hypoplasia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0006817">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001317">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0011283">
+<input type="hidden" value="HP:0011282">
+<input type="hidden" value="HP:0012443">
+<input type="hidden" value="HP:0002334">
+<input type="hidden" value="HP:0002438">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005548">[HP:0005548]</span>
+<span class="title">Megakaryocytopenia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0012143">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0005561">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003312">[HP:0003312]</span>
+<span class="title">Abnormal form of the vertebral bodies</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003468">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000925">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001671">[HP:0001671]</span>
+<span class="title">Abnormality of the cardiac septa</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002564">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004859">[HP:0004859]</span>
+<span class="title">Amegakaryocytic thrombocytopenia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001873">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0011873">
+<input type="hidden" value="HP:0001872">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001150">[HP:0001150]</span>
+<span class="title">Choroidal sclerosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000610">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0000553">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001139">[HP:0001139]</span>
+<span class="title">Choroideremia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000610">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0000553">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000529">[HP:0000529]</span>
+<span class="title">Progressive visual loss</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000572">
+<input type="hidden" value="HP:0012373">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000504">
+<input type="hidden" value="HP:0000505">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007945">[HP:0007945]</span>
+<span class="title">Choroidal degeneration</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000610">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0000553">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007441">[HP:0007441]</span>
+<span class="title">Hyperpigmented/hypopigmented macules</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009123">
+<input type="hidden" value="HP:0012733">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0011355">
+<input type="hidden" value="HP:0011121">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000953">
+<input type="hidden" value="HP:0001010">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0001000">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001321">[HP:0001321]</span>
+<span class="title">Cerebellar hypoplasia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0007360">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001317">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0011283">
+<input type="hidden" value="HP:0011282">
+<input type="hidden" value="HP:0012443">
+<input type="hidden" value="HP:0002977">
+</span>
+</li>
+</ul>

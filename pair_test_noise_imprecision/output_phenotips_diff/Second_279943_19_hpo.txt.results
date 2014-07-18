@@ -1,0 +1,256 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0000787">[HP:0000787]</span>
+<span class="title">Nephrolithiasis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0012210">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001058">[HP:0001058]</span>
+<span class="title">Poor wound healing</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000951">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100852">[HP:0100852]</span>
+<span class="title">Abnormal fear/anxiety-related behavior</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100851">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000708">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100568">[HP:0100568]</span>
+<span class="title">Neoplasm of the endocrine system</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001065">[HP:0001065]</span>
+<span class="title">Striae distensae</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004334">
+<input type="hidden" value="HP:0100679">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0010647">
+<input type="hidden" value="HP:0011355">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0011121">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0008065">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000144">[HP:0000144]</span>
+<span class="title">Decreased fertility</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000080">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000078">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001948">[HP:0001948]</span>
+<span class="title">Alkalosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004360">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000869">[HP:0000869]</span>
+<span class="title">Secondary amenorrhea</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000141">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0008373">
+<input type="hidden" value="HP:0000812">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0000140">
+<input type="hidden" value="HP:0010460">
+<input type="hidden" value="HP:0000008">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000963">[HP:0000963]</span>
+<span class="title">Thin skin</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0008065">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011355">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000951">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001041">[HP:0001041]</span>
+<span class="title">Facial erythema</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010783">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011354">
+<input type="hidden" value="HP:0011276">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000951">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001956">[HP:0001956]</span>
+<span class="title">Truncal obesity</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001513">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0004323">
+<input type="hidden" value="HP:0001507">
+<input type="hidden" value="HP:0004324">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009124">[HP:0009124]</span>
+<span class="title">Abnormality of adipose tissue</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003549">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001345">[HP:0001345]</span>
+<span class="title">Psychotic mentation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000709">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000708">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003154">[HP:0003154]</span>
+<span class="title">Increased circulating ACTH level</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011043">
+<input type="hidden" value="HP:0003117">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000818">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004586">[HP:0004586]</span>
+<span class="title">Biconcave vertebral bodies</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003312">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000925">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0003468">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000534">[HP:0000534]</span>
+<span class="title">Abnormality of the eyebrow</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000284">
+<input type="hidden" value="HP:0000606">
+<input type="hidden" value="HP:0001595">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011138">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008734">[HP:0008734]</span>
+<span class="title">Decreased testicular size</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000050">
+<input type="hidden" value="HP:0010468">
+<input type="hidden" value="HP:0000035">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003241">
+<input type="hidden" value="HP:0000812">
+<input type="hidden" value="HP:0000811">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000022">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0010461">
+<input type="hidden" value="HP:0000032">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003282">[HP:0003282]</span>
+<span class="title">Low alkaline phosphatase</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004379">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0012379">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008230">[HP:0008230]</span>
+<span class="title">Decreased testosterone in males</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0008373">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000818">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008388">[HP:0008388]</span>
+<span class="title">Abnormality of the toenail</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001597">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011138">
+<input type="hidden" value="HP:0001574">
+</span>
+</li>
+</ul>

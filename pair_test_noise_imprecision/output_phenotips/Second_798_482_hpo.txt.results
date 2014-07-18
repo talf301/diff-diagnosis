@@ -1,0 +1,208 @@
+<div class="xwikirenderingerror">Failed to execute the [velocity] macro</div><div class="xwikirenderingerrordescription hidden"><pre>org.xwiki.rendering.macro.MacroExecutionException: Failed to evaluate Velocity Macro for content [#if ($xcontext.action == 'get')
+  $response.setHeader("X-ReqNo", "$!request.reqNo")##
+  #if ("$!request.q" != '')##
+    #set ($_service = $services.omim)
+    #set ($limit = $mathtool.toInteger("$!&#123;request.limit}"))
+    #if (!$limit || $limit &lt; 0)
+      #set ($limit = 20)
+    #end
+    #set ($data = [])
+    #set ($ancestors = $collectionstool.set)
+    #set ($negativeAncestors = $collectionstool.set)
+    #foreach ($piece in $!request.getParameterValues('symptom'))
+      #set ($discard = $data.add("symptom:$&#123;piece.replaceAll(':', '\\:')}"))
+      #set ($discard = $ancestors.addAll($services.ontologies.resolveTerm($piece).get('term_category')))
+    #end
+    #foreach ($piece in $!request.getParameterValues('not_symptom'))
+      #set ($discard = $data.add("not_symptom:$&#123;piece.replaceAll(':', '\\:')}"))
+      #set ($discard = $negativeAncestors.addAll($services.ontologies.resolveTerm($piece).get('term_category')))
+    #end
+    #set ($discard = $negativeAncestors.removeAll($ancestors))
+    #if ($!request.getParameterValues('not_symptom'))
+      #set ($discard = $negativeAncestors.removeAll($!request.getParameterValues('not_symptom')))
+    #end
+    #if ($!request.getParameterValues('symptom'))
+      #set ($discard = $ancestors.removeAll($!request.getParameterValues('symptom')))
+    #end
+    #foreach ($piece in $ancestors)
+      #set ($discard = $data.add("symptom:$&#123;piece.replaceAll(':', '\\:')}^0.3"))
+    #end
+    #foreach ($piece in $negativeAncestors)
+      #set ($discard = $data.add("not_symptom:$&#123;piece.replaceAll(':', '\\:')}^0.3"))
+    #end
+    #foreach ($piece in $!request.getParameterValues('free_symptom'))
+      #set($discard = $data.add("text:""$&#123;piece}"""))
+    #end
+    #if ("$!&#123;request.format}" == 'html')
+#set ($results = $_service.search($stringtool.join($data, ' '), $limit, 0))
+#if ($results.size() &gt; 0)
+&#123;&#123;html clean="false"  wiki="false"}}##
+&lt;ul&gt;
+#foreach($item in $results)
+    #if ("$!item.id"!= '' &amp;&amp; "$!item.name" != '')
+    #set ($indexOfSeparator = $item.name.indexOf(';'))
+    #if ($indexOfSeparator &gt; 0)
+      #set($shortName = $item.name.substring(0, $indexOfSeparator))
+      #set($fullName = $item.name.replaceAll(';;', ';'))
+    #else
+      #set($shortName = $item.name)
+      #set($fullName = $item.name)
+    #end
+  &lt;li class="disorder"&gt;
+    &lt;span class="id" title="$&#123;item.id}"&gt;&lt;a href="http://www.omim.org/entry/$&#123;item.id}" target="_blank" title="Read about this disorder on OMIM"&gt;[MIM:#if("$!item.Oid"!= '')$&#123;item.Oid}#else$&#123;item.id}#end]&lt;/a&gt;&lt;/span&gt;
+    &lt;span class="title" title="$&#123;fullName}"&gt;$&#123;shortName}&lt;/span&gt;
+    #if ("$!item.Locus" != '')&lt;span class="locus"&gt;(Locus: $&#123;item.Locus})&lt;/span&gt;#end
+  &lt;/li&gt;
+  #end
+#end## foreach item
+&lt;/ul&gt;
+&#123;&#123;/html}}
+   #set ($hasOutput = true)
+#else
+   #set ($hasOutput = false)
+#end## results.size() &gt; 0
+    #end## html format
+  #else
+    #set ($hasOutput = false)
+  #end## non-empty query
+#end## get action
+##
+#if (!$hasOutput)
+(% class="hint" %)No matches found
+#end]
+	at org.xwiki.rendering.internal.macro.velocity.VelocityMacro.evaluateString(VelocityMacro.java:131)
+	at org.xwiki.rendering.internal.macro.velocity.VelocityMacro.evaluateString(VelocityMacro.java:50)
+	at org.xwiki.rendering.macro.script.AbstractScriptMacro.evaluateBlock(AbstractScriptMacro.java:302)
+	at org.xwiki.rendering.macro.script.AbstractScriptMacro.execute(AbstractScriptMacro.java:198)
+	at org.xwiki.rendering.macro.script.AbstractScriptMacro.execute(AbstractScriptMacro.java:59)
+	at org.xwiki.rendering.internal.transformation.macro.MacroTransformation.transformOnce(MacroTransformation.java:191)
+	at org.xwiki.rendering.internal.transformation.macro.MacroTransformation.transform(MacroTransformation.java:132)
+	at org.xwiki.rendering.internal.transformation.DefaultTransformationManager.performTransformations(DefaultTransformationManager.java:87)
+	at org.xwiki.display.internal.DocumentContentDisplayer.display(DocumentContentDisplayer.java:252)
+	at org.xwiki.display.internal.DocumentContentDisplayer.display(DocumentContentDisplayer.java:125)
+	at org.xwiki.display.internal.DocumentContentDisplayer.display(DocumentContentDisplayer.java:55)
+	at org.xwiki.display.internal.DefaultDocumentDisplayer.display(DefaultDocumentDisplayer.java:80)
+	at org.xwiki.display.internal.DefaultDocumentDisplayer.display(DefaultDocumentDisplayer.java:38)
+	at org.xwiki.sheet.internal.SheetDocumentDisplayer.display(SheetDocumentDisplayer.java:113)
+	at org.xwiki.sheet.internal.SheetDocumentDisplayer.display(SheetDocumentDisplayer.java:50)
+	at org.xwiki.display.internal.ConfiguredDocumentDisplayer.display(ConfiguredDocumentDisplayer.java:67)
+	at org.xwiki.display.internal.ConfiguredDocumentDisplayer.display(ConfiguredDocumentDisplayer.java:41)
+	at com.xpn.xwiki.doc.XWikiDocument.getRenderedContent(XWikiDocument.java:997)
+	at com.xpn.xwiki.doc.XWikiDocument.getRenderedContent(XWikiDocument.java:976)
+	at com.xpn.xwiki.doc.XWikiDocument.getRenderedContent(XWikiDocument.java:1007)
+	at com.xpn.xwiki.api.Document.getRenderedContent(Document.java:619)
+	at sun.reflect.GeneratedMethodAccessor304.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.doInvoke(UberspectImpl.java:395)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.invoke(UberspectImpl.java:384)
+	at org.apache.velocity.runtime.parser.node.ASTMethod.execute(ASTMethod.java:173)
+	at org.apache.velocity.runtime.parser.node.ASTReference.execute(ASTReference.java:280)
+	at org.apache.velocity.runtime.parser.node.ASTReference.render(ASTReference.java:369)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:106)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.xwiki.velocity.internal.DefaultVelocityEngine.evaluate(DefaultVelocityEngine.java:228)
+	at org.xwiki.velocity.internal.DefaultVelocityEngine.evaluate(DefaultVelocityEngine.java:187)
+	at com.xpn.xwiki.render.XWikiVelocityRenderer.evaluate(XWikiVelocityRenderer.java:105)
+	at com.xpn.xwiki.internal.template.DefaultPrivilegedTemplateRenderer.evaluate(DefaultPrivilegedTemplateRenderer.java:125)
+	at com.xpn.xwiki.internal.template.DefaultPrivilegedTemplateRenderer.evaluateTemplate(DefaultPrivilegedTemplateRenderer.java:75)
+	at com.xpn.xwiki.XWiki.evaluateTemplate(XWiki.java:1687)
+	at com.xpn.xwiki.XWiki.parseTemplate(XWiki.java:1627)
+	at com.xpn.xwiki.api.XWiki.parseTemplate(XWiki.java:918)
+	at sun.reflect.GeneratedMethodAccessor145.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.doInvoke(UberspectImpl.java:395)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.invoke(UberspectImpl.java:384)
+	at org.apache.velocity.runtime.parser.node.ASTMethod.execute(ASTMethod.java:173)
+	at org.apache.velocity.runtime.parser.node.ASTReference.execute(ASTReference.java:280)
+	at org.apache.velocity.runtime.parser.node.ASTReference.render(ASTReference.java:369)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.directive.VelocimacroProxy.render(VelocimacroProxy.java:216)
+	at org.apache.velocity.runtime.directive.RuntimeMacro.render(RuntimeMacro.java:311)
+	at org.apache.velocity.runtime.directive.RuntimeMacro.render(RuntimeMacro.java:230)
+	at org.apache.velocity.runtime.parser.node.ASTDirective.render(ASTDirective.java:207)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.xwiki.velocity.internal.DefaultVelocityEngine.evaluate(DefaultVelocityEngine.java:228)
+	at org.xwiki.velocity.internal.DefaultVelocityEngine.evaluate(DefaultVelocityEngine.java:187)
+	at com.xpn.xwiki.render.XWikiVelocityRenderer.evaluate(XWikiVelocityRenderer.java:105)
+	at com.xpn.xwiki.internal.template.DefaultPrivilegedTemplateRenderer.evaluate(DefaultPrivilegedTemplateRenderer.java:125)
+	at com.xpn.xwiki.internal.template.DefaultPrivilegedTemplateRenderer.evaluateTemplate(DefaultPrivilegedTemplateRenderer.java:75)
+	at com.xpn.xwiki.XWiki.evaluateTemplate(XWiki.java:1687)
+	at com.xpn.xwiki.web.Utils.parseTemplate(Utils.java:167)
+	at com.xpn.xwiki.web.XWikiAction.execute(XWikiAction.java:304)
+	at com.xpn.xwiki.web.XWikiAction.execute(XWikiAction.java:129)
+	at org.apache.struts.action.RequestProcessor.processActionPerform(RequestProcessor.java:425)
+	at org.apache.struts.action.RequestProcessor.process(RequestProcessor.java:228)
+	at org.apache.struts.action.ActionServlet.process(ActionServlet.java:1913)
+	at org.apache.struts.action.ActionServlet.doPost(ActionServlet.java:462)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:637)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:717)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at com.xpn.xwiki.web.ActionFilter.doFilter(ActionFilter.java:121)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.xwiki.container.servlet.filters.internal.SavedRequestRestorerFilter.doFilter(SavedRequestRestorerFilter.java:208)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.xwiki.container.servlet.filters.internal.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:111)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:102)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:298)
+	at org.apache.jk.server.JkCoyoteHandler.invoke(JkCoyoteHandler.java:190)
+	at org.apache.jk.common.HandlerRequest.invoke(HandlerRequest.java:291)
+	at org.apache.jk.common.ChannelSocket.invoke(ChannelSocket.java:769)
+	at org.apache.jk.common.ChannelSocket.processConnection(ChannelSocket.java:698)
+	at org.apache.jk.common.ChannelSocket$SocketConnection.runIt(ChannelSocket.java:891)
+	at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:690)
+	at java.lang.Thread.run(Thread.java:744)
+Caused by: org.xwiki.velocity.XWikiVelocityException: Failed to evaluate content with id [xwiki:PhenoTips.OmimPredictService]
+	at org.xwiki.velocity.internal.DefaultVelocityEngine.evaluate(DefaultVelocityEngine.java:247)
+	at org.xwiki.velocity.internal.DefaultVelocityEngine.evaluate(DefaultVelocityEngine.java:187)
+	at org.xwiki.rendering.internal.macro.velocity.VelocityMacro.evaluateString(VelocityMacro.java:124)
+	... 93 more
+Caused by: org.apache.velocity.exception.MethodInvocationException: Invocation of method 'search' in  class org.phenotips.solr.OmimScriptService threw exception org.apache.solr.common.SolrException: parsing error at xwiki:PhenoTips.OmimPredictService[line 37, column 28]
+	at org.apache.velocity.runtime.parser.node.ASTMethod.handleInvocationException(ASTMethod.java:243)
+	at org.apache.velocity.runtime.parser.node.ASTMethod.execute(ASTMethod.java:187)
+	at org.apache.velocity.runtime.parser.node.ASTReference.execute(ASTReference.java:280)
+	at org.apache.velocity.runtime.parser.node.ASTReference.value(ASTReference.java:567)
+	at org.apache.velocity.runtime.parser.node.ASTExpression.value(ASTExpression.java:71)
+	at org.apache.velocity.runtime.parser.node.ASTSetDirective.render(ASTSetDirective.java:142)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.ASTBlock.render(ASTBlock.java:72)
+	at org.apache.velocity.runtime.parser.node.ASTIfStatement.render(ASTIfStatement.java:87)
+	at org.apache.velocity.runtime.parser.node.SimpleNode.render(SimpleNode.java:342)
+	at org.xwiki.velocity.internal.DefaultVelocityEngine.evaluate(DefaultVelocityEngine.java:228)
+	... 95 more
+Caused by: org.apache.solr.common.SolrException: parsing error
+	at org.apache.solr.client.solrj.impl.BinaryResponseParser.processResponse(BinaryResponseParser.java:43)
+	at org.apache.solr.client.solrj.impl.HttpSolrServer.request(HttpSolrServer.java:384)
+	at org.apache.solr.client.solrj.impl.HttpSolrServer.request(HttpSolrServer.java:181)
+	at org.apache.solr.client.solrj.request.QueryRequest.process(QueryRequest.java:90)
+	at org.apache.solr.client.solrj.SolrServer.query(SolrServer.java:301)
+	at org.phenotips.solr.AbstractSolrScriptService.search(AbstractSolrScriptService.java:313)
+	at org.phenotips.solr.AbstractSolrScriptService.search(AbstractSolrScriptService.java:173)
+	at sun.reflect.GeneratedMethodAccessor794.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.doInvoke(UberspectImpl.java:395)
+	at org.apache.velocity.util.introspection.UberspectImpl$VelMethodImpl.invoke(UberspectImpl.java:384)
+	at org.apache.velocity.runtime.parser.node.ASTMethod.execute(ASTMethod.java:173)
+	... 107 more
+Caused by: java.io.EOFException
+	at org.apache.solr.common.util.FastInputStream.readByte(FastInputStream.java:187)
+	at org.apache.solr.common.util.JavaBinCodec.unmarshal(JavaBinCodec.java:107)
+	at org.apache.solr.client.solrj.impl.BinaryResponseParser.processResponse(BinaryResponseParser.java:41)
+	... 119 more
+</pre></div>

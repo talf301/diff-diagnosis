@@ -1,0 +1,279 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0003680">[HP:0003680]</span>
+<span class="title">Nonprogressive disorder</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003679">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000004">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009077">[HP:0009077]</span>
+<span class="title">Weakness of long finger extensor muscles</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001421">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0001155">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0009127">
+<input type="hidden" value="HP:0001446">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009031">[HP:0009031]</span>
+<span class="title">Amyotrophy of ankle musculature</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001436">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0001437">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0009127">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011916">[HP:0011916]</span>
+<span class="title">Toe extensor amyotrophy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001436">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0001437">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0009127">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011463">[HP:0011463]</span>
+<span class="title">Childhood onset</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011007">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000004">
+<input type="hidden" value="HP:0003674">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009080">[HP:0009080]</span>
+<span class="title">High palate</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000174">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000163">
+<input type="hidden" value="HP:0000153">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000842">[HP:0000842]</span>
+<span class="title">Hyperinsulinemia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003117">
+<input type="hidden" value="HP:0011014">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0011013">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000789">[HP:0000789]</span>
+<span class="title">Infertility</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000144">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000080">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000786">[HP:0000786]</span>
+<span class="title">Primary amenorrhea</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000141">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0008373">
+<input type="hidden" value="HP:0000812">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0000140">
+<input type="hidden" value="HP:0010460">
+<input type="hidden" value="HP:0000008">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005968">[HP:0005968]</span>
+<span class="title">Temperature instability</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004370">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001939">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000044">[HP:0000044]</span>
+<span class="title">Hypogonadotrophic hypogonadism</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000135">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0008373">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0000080">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001159">[HP:0001159]</span>
+<span class="title">Syndactyly</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011297">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0002813">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007010">[HP:0007010]</span>
+<span class="title">Poor fine motor coordination</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002275">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011443">
+<input type="hidden" value="HP:0011442">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000446">[HP:0000446]</span>
+<span class="title">Narrow nasal bridge</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000422">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000366">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007015">[HP:0007015]</span>
+<span class="title">Poor gross motor coordination</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002275">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011443">
+<input type="hidden" value="HP:0011442">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0010535">[HP:0010535]</span>
+<span class="title">Sleep apnea</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002104">
+<input type="hidden" value="HP:0002360">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000708">
+<input type="hidden" value="HP:0012638">
+<input type="hidden" value="HP:0002795">
+<input type="hidden" value="HP:0002793">
+<input type="hidden" value="HP:0002086">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007730">[HP:0007730]</span>
+<span class="title">Iris hypopigmentation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0008034">
+<input type="hidden" value="HP:0004328">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000525">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0000553">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000824">[HP:0000824]</span>
+<span class="title">Growth hormone deficiency</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000830">
+<input type="hidden" value="HP:0003117">
+<input type="hidden" value="HP:0012503">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0000864">
+<input type="hidden" value="HP:0011747">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007874">[HP:0007874]</span>
+<span class="title">Almond-shaped palpebral fissure</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0200005">
+<input type="hidden" value="HP:0000492">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000606">
+<input type="hidden" value="HP:0008050">
+<input type="hidden" value="HP:0000234">
+<input type="hidden" value="HP:0000284">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002236">[HP:0002236]</span>
+<span class="title">Frontal upsweep of hair</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010721">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011138">
+<input type="hidden" value="HP:0010720">
+<input type="hidden" value="HP:0011361">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0001595">
+</span>
+</li>
+</ul>

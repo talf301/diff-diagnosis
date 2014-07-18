@@ -1,0 +1,271 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0000526">[HP:0000526]</span>
+<span class="title">Aniridia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0008053">
+<input type="hidden" value="HP:0004328">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000525">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0008062">
+<input type="hidden" value="HP:0000553">
+<input type="hidden" value="HP:0008055">
+<input type="hidden" value="HP:0008056">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000130">[HP:0000130]</span>
+<span class="title">Abnormality of the uterus</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000008">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000812">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0010460">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001466">[HP:0001466]</span>
+<span class="title">Contiguous gene syndrome</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000005">
+<input type="hidden" value="HP:0000001">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001048">[HP:0001048]</span>
+<span class="title">Cavernous hemangioma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001028">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0008069">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0100742">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000944">[HP:0000944]</span>
+<span class="title">Abnormality of the metaphyses</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011314">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000124">[HP:0000124]</span>
+<span class="title">Renal tubular dysfunction</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0012211">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100761">[HP:0100761]</span>
+<span class="title">Visceral angiomatosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0007461">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0008069">
+<input type="hidden" value="HP:0001028">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0100742">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006765">[HP:0006765]</span>
+<span class="title">Chondrosarcoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010622">
+<input type="hidden" value="HP:0100242">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0011792">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000926">[HP:0000926]</span>
+<span class="title">Platyspondyly</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003312">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000925">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0003468">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005701">[HP:0005701]</span>
+<span class="title">Multiple enchondromatosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002763">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0010622">[HP:0010622]</span>
+<span class="title">Neoplasm of the skeletal system</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000027">[HP:0000027]</span>
+<span class="title">Azoospermia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0008669">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000025">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000080">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000789">[HP:0000789]</span>
+<span class="title">Infertility</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000144">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000080">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000798">[HP:0000798]</span>
+<span class="title">Oligospermia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0008669">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000025">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000080">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001547">[HP:0001547]</span>
+<span class="title">Abnormality of the rib cage</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004728">[HP:0004728]</span>
+<span class="title">Diffuse mesangial sclerosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001966">
+<input type="hidden" value="HP:0012575">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0000095">
+<input type="hidden" value="HP:0012210">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003248">[HP:0003248]</span>
+<span class="title">Gonadal tissue inappropriate for external genitalia or chromosomal sex</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000062">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000811">
+<input type="hidden" value="HP:0000078">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000061">[HP:0000061]</span>
+<span class="title">Ambiguous genitalia, female</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000055">
+<input type="hidden" value="HP:0000062">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000811">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0010460">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001743">[HP:0001743]</span>
+<span class="title">Abnormality of the spleen</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002012">
+<input type="hidden" value="HP:0100763">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0001438">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000356">[HP:0000356]</span>
+<span class="title">Abnormality of the outer ear</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000598">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+</ul>

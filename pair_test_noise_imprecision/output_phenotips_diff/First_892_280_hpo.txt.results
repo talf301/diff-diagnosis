@@ -1,0 +1,323 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0009726">[HP:0009726]</span>
+<span class="title">Renal neoplasm</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0010786">
+<input type="hidden" value="HP:0007379">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0000079">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005562">[HP:0005562]</span>
+<span class="title">Multiple renal cysts</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000107">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0012210">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009713">[HP:0009713]</span>
+<span class="title">Spinal hemangioblastoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010302">
+<input type="hidden" value="HP:0010797">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0100006">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0100835">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0002143">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009711">[HP:0009711]</span>
+<span class="title">Retinal hemangioblastoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000479">
+<input type="hidden" value="HP:0001028">
+<input type="hidden" value="HP:0010797">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0008069">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100006">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0100835">
+<input type="hidden" value="HP:0100742">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100799">[HP:0100799]</span>
+<span class="title">Neoplasm of the middle ear</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000370">
+<input type="hidden" value="HP:0012780">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0000598">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006880">[HP:0006880]</span>
+<span class="title">Cerebellar hemangioblastoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001317">
+<input type="hidden" value="HP:0010797">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100006">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0011283">
+<input type="hidden" value="HP:0100835">
+<input type="hidden" value="HP:0011282">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0012443">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002668">[HP:0002668]</span>
+<span class="title">Paraganglioma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100634">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0100568">
+<input type="hidden" value="HP:0100007">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005954">[HP:0005954]</span>
+<span class="title">Pulmonary capillary hemangiomatosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002088">
+<input type="hidden" value="HP:0005306">
+<input type="hidden" value="HP:0007461">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0008069">
+<input type="hidden" value="HP:0001028">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0012252">
+<input type="hidden" value="HP:0100742">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0002086">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001901">[HP:0001901]</span>
+<span class="title">Polycythemia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001877">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001871">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000180">[HP:0000180]</span>
+<span class="title">Lobulated tongue</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000157">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000163">
+<input type="hidden" value="HP:0000153">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009085">[HP:0009085]</span>
+<span class="title">Alveolar ridge overgrowth</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0006477">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000163">
+<input type="hidden" value="HP:0000153">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001780">[HP:0001780]</span>
+<span class="title">Abnormality of toe</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001760">
+<input type="hidden" value="HP:0011297">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0002814">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000308">[HP:0000308]</span>
+<span class="title">Microretrognathia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000278">
+<input type="hidden" value="HP:0000347">
+<input type="hidden" value="HP:0009122">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0011821">
+<input type="hidden" value="HP:0000234">
+<input type="hidden" value="HP:0009115">
+<input type="hidden" value="HP:0009116">
+<input type="hidden" value="HP:0000929">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000277">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0009118">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003581">[HP:0003581]</span>
+<span class="title">Adult onset</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011007">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000004">
+<input type="hidden" value="HP:0003674">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002208">[HP:0002208]</span>
+<span class="title">Coarse hair</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010719">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011138">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0001595">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002536">[HP:0002536]</span>
+<span class="title">Abnormal cortical gyration</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002269">
+<input type="hidden" value="HP:0002538">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0100547">
+<input type="hidden" value="HP:0002060">
+<input type="hidden" value="HP:0012443">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005288">[HP:0005288]</span>
+<span class="title">Abnormality of the nares</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000366">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001627">[HP:0001627]</span>
+<span class="title">Abnormality of cardiac morphology</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006349">[HP:0006349]</span>
+<span class="title">Agenesis of permanent teeth</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009804">
+<input type="hidden" value="HP:0011044">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000164">
+<input type="hidden" value="HP:0000163">
+<input type="hidden" value="HP:0000153">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0006483">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100267">[HP:0100267]</span>
+<span class="title">Lip pit</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000159">
+<input type="hidden" value="HP:0100276">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011355">
+<input type="hidden" value="HP:0000153">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+</ul>

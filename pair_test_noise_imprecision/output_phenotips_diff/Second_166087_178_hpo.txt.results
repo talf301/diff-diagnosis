@@ -1,0 +1,258 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0003454">[HP:0003454]</span>
+<span class="title">Platelet antibody positive</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002960">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0010978">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100769">[HP:0100769]</span>
+<span class="title">Synovitis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0005262">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0001367">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008357">[HP:0008357]</span>
+<span class="title">Reduced factor XIII activity</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010990">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001928">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0003256">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000915">[HP:0000915]</span>
+<span class="title">Pectus excavatum of inferior sternum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000767">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000766">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000914">[HP:0000914]</span>
+<span class="title">Shield chest</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100625">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0001547">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000917">[HP:0000917]</span>
+<span class="title">Superior pectus carinatum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000768">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000766">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100697">[HP:0100697]</span>
+<span class="title">Neurofibrosarcoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100242">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011792">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000476">[HP:0000476]</span>
+<span class="title">Cystic hygroma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000464">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000152">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003251">[HP:0003251]</span>
+<span class="title">Male infertility</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000789">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000144">
+<input type="hidden" value="HP:0000080">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004841">[HP:0004841]</span>
+<span class="title">Reduced factor XII activity</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010989">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001928">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0003256">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001531">[HP:0001531]</span>
+<span class="title">Failure to thrive in infancy</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001508">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0004325">
+<input type="hidden" value="HP:0004323">
+<input type="hidden" value="HP:0001507">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001680">[HP:0001680]</span>
+<span class="title">Coarctation of aorta</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001679">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0011004">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004859">[HP:0004859]</span>
+<span class="title">Amegakaryocytic thrombocytopenia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001873">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0011873">
+<input type="hidden" value="HP:0001872">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001386">[HP:0001386]</span>
+<span class="title">Joint swelling</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000969">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011032">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005268">[HP:0005268]</span>
+<span class="title">Spontaneous abortion</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001787">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001197">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000140">[HP:0000140]</span>
+<span class="title">Abnormality of the menstrual cycle</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000008">
+<input type="hidden" value="HP:0008373">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000812">
+<input type="hidden" value="HP:0012243">
+<input type="hidden" value="HP:0000078">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0010460">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004807">[HP:0004807]</span>
+<span class="title">Abnormality of thrombocytes</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009919">[HP:0009919]</span>
+<span class="title">Retinoblastoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002898">
+<input type="hidden" value="HP:0012777">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0011792">
+<input type="hidden" value="HP:0000479">
+<input type="hidden" value="HP:0100012">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007862">[HP:0007862]</span>
+<span class="title">Retinal calcification</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000479">
+<input type="hidden" value="HP:0010766">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002665">[HP:0002665]</span>
+<span class="title">Lymphoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004377">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0002664">
+</span>
+</li>
+</ul>

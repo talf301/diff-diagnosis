@@ -1,0 +1,240 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0003256">[HP:0003256]</span>
+<span class="title">Abnormality of the coagulation cascade</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001928">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001871">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002063">[HP:0002063]</span>
+<span class="title">Rigidity</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011442">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001649">[HP:0001649]</span>
+<span class="title">Tachycardia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011675">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005967">[HP:0005967]</span>
+<span class="title">Mixed respiratory and metabolic acidosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001942">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004360">
+<input type="hidden" value="HP:0001941">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001919">[HP:0001919]</span>
+<span class="title">Acute kidney injury</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000083">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011277">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0012211">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001278">[HP:0001278]</span>
+<span class="title">Orthostatic hypotension</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002615">
+<input type="hidden" value="HP:0012332">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0002270">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004918">[HP:0004918]</span>
+<span class="title">hyperchloremic metabolic acidosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001995">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004360">
+<input type="hidden" value="HP:0001941">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011423">[HP:0011423]</span>
+<span class="title">Hyperchloremia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011422">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0003111">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003351">[HP:0003351]</span>
+<span class="title">Decreased circulating renin level</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000847">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000818">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000821">[HP:0000821]</span>
+<span class="title">Hypothyroidism</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002926">
+<input type="hidden" value="HP:0000820">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000818">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100748">[HP:0100748]</span>
+<span class="title">Muscular edema</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000969">
+<input type="hidden" value="HP:0011805">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0011032">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0003552">[HP:0003552]</span>
+<span class="title">Muscle stiffness</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011804">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0010307">[HP:0010307]</span>
+<span class="title">Stridor</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002795">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002086">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000366">[HP:0000366]</span>
+<span class="title">Abnormality of the nose</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000343">[HP:0000343]</span>
+<span class="title">Long philtrum</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000288">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000153">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000234">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002099">[HP:0002099]</span>
+<span class="title">Asthma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002088">
+<input type="hidden" value="HP:0100326">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002715">
+<input type="hidden" value="HP:0012252">
+<input type="hidden" value="HP:0010978">
+<input type="hidden" value="HP:0002086">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000286">[HP:0000286]</span>
+<span class="title">Epicanthus</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000492">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000271">
+<input type="hidden" value="HP:0000606">
+<input type="hidden" value="HP:0000234">
+<input type="hidden" value="HP:0000284">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001995">[HP:0001995]</span>
+<span class="title">Hyperchloremic acidosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001941">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001939">
+<input type="hidden" value="HP:0004360">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004308">[HP:0004308]</span>
+<span class="title">Ventricular arrhythmia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011675">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001937">[HP:0001937]</span>
+<span class="title">Microangiopathic hemolytic anemia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001878">
+<input type="hidden" value="HP:0011895">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001877">
+<input type="hidden" value="HP:0001871">
+<input type="hidden" value="HP:0001903">
+</span>
+</li>
+</ul>

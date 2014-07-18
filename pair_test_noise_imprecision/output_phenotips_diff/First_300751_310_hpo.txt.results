@@ -1,0 +1,263 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0006673">[HP:0006673]</span>
+<span class="title">Reduced systolic function</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001635">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006699">[HP:0006699]</span>
+<span class="title">Ectopic supraventricular rhythms</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0005115">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011675">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001702">[HP:0001702]</span>
+<span class="title">Abnormality of the tricuspid valve</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0006705">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0002564">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0011712">[HP:0011712]</span>
+<span class="title">Right bundle branch block</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011710">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012722">
+<input type="hidden" value="HP:0005150">
+<input type="hidden" value="HP:0011675">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0010316">[HP:0010316]</span>
+<span class="title">Ebstein's anomaly of the tricuspid valve</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001702">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0006705">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0002564">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004420">[HP:0004420]</span>
+<span class="title">Arterial thrombosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001977">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001871">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004414">[HP:0004414]</span>
+<span class="title">Abnormality of the pulmonary artery</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004930">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002597">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006684">[HP:0006684]</span>
+<span class="title">Ventricular preexcitation with multiple accessory pathways</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004309">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004308">
+<input type="hidden" value="HP:0011675">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004763">[HP:0004763]</span>
+<span class="title">Paroxysmal supraventricular tachycardia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0004755">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0005115">
+<input type="hidden" value="HP:0011675">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0001649">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006677">[HP:0006677]</span>
+<span class="title">Prolonged QRS complex</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003115">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006690">[HP:0006690]</span>
+<span class="title">Myocardial calcification</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001713">
+<input type="hidden" value="HP:0011915">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0010766">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0002564">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001685">[HP:0001685]</span>
+<span class="title">Myocardial fibrosis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001637">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0001626">
+<input type="hidden" value="HP:0002564">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006681">[HP:0006681]</span>
+<span class="title">Absent atrioventricular node</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001678">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012722">
+<input type="hidden" value="HP:0005150">
+<input type="hidden" value="HP:0011675">
+<input type="hidden" value="HP:0011025">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001547">[HP:0001547]</span>
+<span class="title">Abnormality of the rib cage</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000765">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004631">[HP:0004631]</span>
+<span class="title">Decreased cervical spine flexion due to contractures of posterior cervical muscles</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001371">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011805">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011729">
+<input type="hidden" value="HP:0003549">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002987">[HP:0002987]</span>
+<span class="title">Elbow flexion contracture</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002996">
+<input type="hidden" value="HP:0100360">
+<input type="hidden" value="HP:0011805">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0002817">
+<input type="hidden" value="HP:0003121">
+<input type="hidden" value="HP:0001367">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0003011">
+<input type="hidden" value="HP:0009810">
+<input type="hidden" value="HP:0009811">
+<input type="hidden" value="HP:0001371">
+<input type="hidden" value="HP:0001376">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011729">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0003549">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0005120">[HP:0005120]</span>
+<span class="title">Abnormality of cardiac atrium</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002564">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001627">
+<input type="hidden" value="HP:0001626">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000464">[HP:0000464]</span>
+<span class="title">Abnormality of the neck</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000152">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001081">[HP:0001081]</span>
+<span class="title">Cholelithiasis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0012437">
+<input type="hidden" value="HP:0005264">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004297">
+<input type="hidden" value="HP:0001392">
+<input type="hidden" value="HP:0002012">
+<input type="hidden" value="HP:0001438">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002189">[HP:0002189]</span>
+<span class="title">Excessive daytime sleepiness</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002360">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000708">
+<input type="hidden" value="HP:0012638">
+</span>
+</li>
+</ul>

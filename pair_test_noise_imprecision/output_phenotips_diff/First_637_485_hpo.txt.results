@@ -1,0 +1,306 @@
+<ul>
+<li class="phenotype">
+<span class="id" title="HP:0000843">[HP:0000843]</span>
+<span class="title">Hyperparathyroidism</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011767">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0000828">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0002890">[HP:0002890]</span>
+<span class="title">Thyroid carcinoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100031">
+<input type="hidden" value="HP:0000820">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100568">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0011772">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008554">[HP:0008554]</span>
+<span class="title">Cochlear malformation</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000375">
+<input type="hidden" value="HP:0000359">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000598">
+<input type="hidden" value="HP:0011390">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008223">[HP:0008223]</span>
+<span class="title">Compensated hypothyroidism</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000821">
+<input type="hidden" value="HP:0000820">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0002926">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001751">[HP:0001751]</span>
+<span class="title">Vestibular dysfunction</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0011389">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000359">
+<input type="hidden" value="HP:0000598">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0004595">[HP:0004595]</span>
+<span class="title">Platyspondyly</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0003312">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0009121">
+<input type="hidden" value="HP:0000925">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0003468">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006499">[HP:0006499]</span>
+<span class="title">Abnormality of femoral epiphyses</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0002823">
+<input type="hidden" value="HP:0006500">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011314">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0005930">
+<input type="hidden" value="HP:0002814">
+<input type="hidden" value="HP:0002813">
+<input type="hidden" value="HP:0011844">
+<input type="hidden" value="HP:0006505">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0006361">[HP:0006361]</span>
+<span class="title">Irregular femoral epiphyses</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0010582">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000924">
+<input type="hidden" value="HP:0011842">
+<input type="hidden" value="HP:0011314">
+<input type="hidden" value="HP:0005930">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007876">[HP:0007876]</span>
+<span class="title">Juvenile cortical cataract</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001118">
+<input type="hidden" value="HP:0004328">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0000518">
+<input type="hidden" value="HP:0000517">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009589">[HP:0009589]</span>
+<span class="title">Bilateral vestibular Schwannoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009588">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100007">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0100008">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0009591">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000759">
+<input type="hidden" value="HP:0001291">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0007935">[HP:0007935]</span>
+<span class="title">Juvenile posterior subcapsular lenticular opacities</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0007787">
+<input type="hidden" value="HP:0004328">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000523">
+<input type="hidden" value="HP:0010696">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0000518">
+<input type="hidden" value="HP:0000478">
+<input type="hidden" value="HP:0000517">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009594">[HP:0009594]</span>
+<span class="title">Retinal hamartoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000479">
+<input type="hidden" value="HP:0010568">
+<input type="hidden" value="HP:0012374">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0011792">
+<input type="hidden" value="HP:0004329">
+<input type="hidden" value="HP:0012372">
+<input type="hidden" value="HP:0010566">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0001098">
+<input type="hidden" value="HP:0000478">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009593">[HP:0009593]</span>
+<span class="title">Peripheral Schwannoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0008069">
+<input type="hidden" value="HP:0100008">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100007">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009595">[HP:0009595]</span>
+<span class="title">Occasional neurofibromas</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001067">
+<input type="hidden" value="HP:0008069">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100007">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0011792">
+<input type="hidden" value="HP:0012316">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000951">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0010614">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0001574">
+<input type="hidden" value="HP:0000759">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0009590">[HP:0009590]</span>
+<span class="title">Unilateral vestibular Schwannoma</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0009588">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0100007">
+<input type="hidden" value="HP:0004375">
+<input type="hidden" value="HP:0100008">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0011793">
+<input type="hidden" value="HP:0009591">
+<input type="hidden" value="HP:0002664">
+<input type="hidden" value="HP:0000759">
+<input type="hidden" value="HP:0001291">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0100626">[HP:0100626]</span>
+<span class="title">Chronic hepatic failure</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0001399">
+<input type="hidden" value="HP:0001410">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0001392">
+<input type="hidden" value="HP:0002012">
+<input type="hidden" value="HP:0001438">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0001320">[HP:0001320]</span>
+<span class="title">Cerebellar vermis hypoplasia</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0006817">
+<input type="hidden" value="HP:0000707">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0001317">
+<input type="hidden" value="HP:0002011">
+<input type="hidden" value="HP:0012639">
+<input type="hidden" value="HP:0011283">
+<input type="hidden" value="HP:0011282">
+<input type="hidden" value="HP:0012443">
+<input type="hidden" value="HP:0002334">
+<input type="hidden" value="HP:0002438">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0008659">[HP:0008659]</span>
+<span class="title">Multiple small medullary renal cysts</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000107">
+<input type="hidden" value="HP:0100957">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0012210">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000864">[HP:0000864]</span>
+<span class="title">Abnormality of the hypothalamus-pituitary axis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0000818">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0000118">
+</span>
+</li>
+<li class="phenotype">
+<span class="id" title="HP:0000090">[HP:0000090]</span>
+<span class="title">Nephronophthisis</span>
+<span class="hidden term-category">
+<input type="hidden" value="HP:0100957">
+<input type="hidden" value="HP:0000119">
+<input type="hidden" value="HP:0000118">
+<input type="hidden" value="HP:0000001">
+<input type="hidden" value="HP:0010935">
+<input type="hidden" value="HP:0000077">
+<input type="hidden" value="HP:0012210">
+<input type="hidden" value="HP:0000079">
+</span>
+</li>
+</ul>
