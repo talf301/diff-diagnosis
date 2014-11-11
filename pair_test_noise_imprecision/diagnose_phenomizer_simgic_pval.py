@@ -87,6 +87,7 @@ def load_pvals(topdir):
             for line in f:
                 pval_table[j][i - 1][l] = float(line.strip())
                 l += 1
+                if(l >= cutoff): break
             f.close()
     return (pval_table, pval_dict)
                 
