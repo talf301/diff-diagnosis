@@ -65,7 +65,7 @@ def script(path,ic, out, pvals, normalized):
     print(failed_keys)
 
 def load_pvals(topdir):
-    cutoff = 50000
+    cutoff = 100000
     t1 = time.time()
     pval_dict = {}
     disdirs = os.listdir(topdir)

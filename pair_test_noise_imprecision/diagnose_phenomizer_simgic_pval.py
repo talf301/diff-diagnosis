@@ -45,7 +45,7 @@ def script(path,ic, out, pvals):
                     failed_keys.add(e.args[0])
 
             omim_scores.append((o, final_score, pval, sim))
-
+            print(pval)
         omim_scores.sort(key=lambda x: x[1], reverse=True)
         with open(os.path.join(out, p + '.results'), 'w') as f:
             for line in omim_scores[:20]:
@@ -73,7 +73,7 @@ def load_pvals_old(topdir):
     return pval_dict
 
 def load_pvals(topdir):
-    cutoff = 10000
+    cutoff = 100000
     t1 = time.time()
     pval_dict = {}
     disdirs = os.listdir(topdir)
