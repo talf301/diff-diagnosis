@@ -12,8 +12,8 @@ def script(path,ic, out):
     omim_dict = get_hp_ic.parse_anno(open('/dupa-filer/talf/diff-diagnosis/phenotype_annotation.tab'))
     #diseases = list(omim_dict.keys())
    
-    ic_dict = collections.defaultdict(lambda: 1)
-    #ic_dict = get_hp_ic.load_ic(open(ic))
+    #ic_dict = collections.defaultdict(lambda: 1)
+    ic_dict = get_hp_ic.load_ic(open(ic))
     contents = os.listdir(path)
     patients = [f for f in contents if f.endswith('.txt')]
 
